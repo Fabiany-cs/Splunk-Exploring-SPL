@@ -20,11 +20,14 @@
                     <p>Start the machine in the TryHackMe lab.</p>
                     <p>Open a web browser and go to the IP address provided:</p>
                     <pre><code>https://&lt;ipaddress&gt;.p.thmlabs.com</code></pre>
+                    <img width="1543" alt="Screenshot 2024-05-22 at 11 18 00 AM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/e7cf82a5-581d-425d-ac6e-a65af69e7252">
                 </li>
                 <li><strong>Navigate to Windowslog Index:</strong>
                     <ul>
                         <li>Go to “Search & Reporting” on the left panel.</li>
                         <li>Select the "Data Summary" tab to see the host for answer 1.</li>
+                        <img width="1273" alt="Screenshot 2024-05-22 at 11 24 32 AM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/7c3ba1f8-f2ee-4dae-a650-cb49318a76ec">
+<img width="799" alt="Screenshot 2024-05-22 at 11 29 17 AM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/b999c240-d634-4d81-9a50-f038c7180e44">
                     </ul>
                 </li>
             </ul>
@@ -43,6 +46,9 @@
                     <p>Change the time range to "All time".</p>
                     <p>In the JSON source code view, scroll down to the left tab and select “146 More Fields”.</p>
                     <p>Select the dropdown for SourceIP to find the source IP with the maximum entries.</p>
+                    <img width="1455" alt="Screenshot 2024-05-22 at 11 47 57 AM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/8bc2caaa-abb9-4587-a2d3-f9d529a601e8">
+<img width="1455" alt="Screenshot 2024-05-22 at 11 51 09 AM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/6ae7c648-9466-48a0-82f1-aa54a80733da">
+<img width="1455" alt="Screenshot 2024-05-22 at 12 25 58 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/a0951cb9-9273-46a6-bfcd-80550955abc3">
                 </li>
             </ul>
         </li>
