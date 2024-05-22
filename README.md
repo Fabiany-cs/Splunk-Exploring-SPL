@@ -56,6 +56,9 @@
             <ul>
                 <li><strong>Learn SPL:</strong>
                     <p>View the provided images to understand how to build queries using SPL.</p>
+                    <img width="1242" alt="Screenshot 2024-05-22 at 12 31 59 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/d52cce30-73cf-46aa-addd-282f2959c69f">
+<img width="1246" alt="Screenshot 2024-05-22 at 12 32 09 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/3b75872b-5a87-4229-8a8e-dff8e28be36e">
+<img width="1252" alt="Screenshot 2024-05-22 at 12 32 14 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/712cea8c-467f-417a-bf4f-02ed911e15d4">
                 </li>
             </ul>
         </li>
