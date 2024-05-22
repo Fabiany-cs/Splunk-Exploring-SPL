@@ -59,6 +59,11 @@
                     <img width="1242" alt="Screenshot 2024-05-22 at 12 31 59 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/d52cce30-73cf-46aa-addd-282f2959c69f">
 <img width="1246" alt="Screenshot 2024-05-22 at 12 32 09 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/3b75872b-5a87-4229-8a8e-dff8e28be36e">
 <img width="1252" alt="Screenshot 2024-05-22 at 12 32 14 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/712cea8c-467f-417a-bf4f-02ed911e15d4">
+                    <img width="1428" alt="Screenshot 2024-05-22 at 12 33 53 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/6d73d5f3-514b-4aad-bacb-82674f183069">
+<img width="1425" alt="Screenshot 2024-05-22 at 12 34 05 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/eb27b0cc-ef2e-47b4-88fa-e10045a7afcd">
+<img width="1442" alt="Screenshot 2024-05-22 at 12 35 56 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/cce96728-b4db-4bc0-b6cd-545eec6745ca">
+<img width="1442" alt="Screenshot 2024-05-22 at 12 38 29 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/ffd9569a-afb6-48c8-9bc2-6a527e89ce13">
+<img width="1433" alt="Screenshot 2024-05-22 at 12 38 39 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/47705a31-e41b-4b06-bbfe-9d153c996001">
                 </li>
             </ul>
         </li>
