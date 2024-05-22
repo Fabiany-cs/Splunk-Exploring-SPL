@@ -72,6 +72,13 @@
                 <li><strong>Explore Filtering Options:</strong>
                     <p>Use different filtering options such as Fields, Search, Dedup, and Rename to get the next two answers.</p>
                     <p>Refer to the screenshots for additional help.</p>
+                    
+<img width="1256" alt="Screenshot 2024-05-22 at 12 44 48 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/757e4b8c-3d3a-4eef-b7a2-70895d85742c">
+<img width="1263" alt="Screenshot 2024-05-22 at 12 45 15 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/b1a664d8-8c0c-4304-bb2c-82555f5ddc7e">
+<img width="1258" alt="Screenshot 2024-05-22 at 12 45 26 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/34393412-f4f7-4669-bebd-a3cc1c9bdafb">
+<img width="1249" alt="Screenshot 2024-05-22 at 12 45 37 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/218b5683-2951-490f-a5c3-f1f3732b209d">
+<img width="1437" alt="Screenshot 2024-05-22 at 12 47 16 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/5fadfa2c-11c5-40a1-b749-afec4aa9a2c3">
+<img width="1442" alt="Screenshot 2024-05-22 at 12 48 32 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/5172cb4d-ccf9-4898-bd18-eccfd11307a7">
                 </li>
             </ul>
         </li>
@@ -80,6 +87,14 @@
                 <li><strong>Use Structuring Commands:</strong>
                     <p>SPL provides commands to structure or order the search results, such as head, tail, and sort.</p>
                     <p>Refer to the provided screenshots for examples of these commands.</p>
+                    <img width="1254" alt="Screenshot 2024-05-22 at 12 50 13 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/37e601c5-a86b-4bed-92ec-a8b871da8801">
+<img width="1256" alt="Screenshot 2024-05-22 at 12 50 18 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/16b1fc52-0f68-4885-a849-146ab7015254">
+<img width="1264" alt="Screenshot 2024-05-22 at 12 50 30 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/d9d68a23-0a43-4270-89cb-323e71af5802">
+<img width="1259" alt="Screenshot 2024-05-22 at 12 50 35 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/6b845b09-4004-445b-90a0-d517daa0dd5e">
+<img width="1259" alt="Screenshot 2024-05-22 at 12 50 41 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/a5da9fad-9660-448f-b67f-0ac8f4b60cf1">
+<img width="1436" alt="Screenshot 2024-05-22 at 12 51 22 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/4ffd51a2-b6d0-485a-a9b8-a44d233ee477">
+<img width="1448" alt="Screenshot 2024-05-22 at 12 52 05 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/8f6f664e-d6e8-4f6c-bca5-b0157e38ca63">
+<img width="1442" alt="Screenshot 2024-05-22 at 12 54 34 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/b6214dfc-7f03-46d3-81af-8ae5de071b62">
                 </li>
             </ul>
         </li>
@@ -89,6 +104,15 @@
                     <p>Transformational commands convert results into a data structure for easier analysis.</p>
                     <p>These commands can be used for statistical purposes or to create visualizations.</p>
                     <p>Refer to the provided screenshots for examples of commonly used transformational commands.</p>
+                    <img width="1260" alt="Screenshot 2024-05-22 at 12 55 37 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/0b18a81c-8776-43bb-a12a-3fbf012f3e8d">
+<img width="1261" alt="Screenshot 2024-05-22 at 12 55 46 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/f0de0e0d-e35e-49bc-ad37-e85024c9cd10">
+<img width="1261" alt="Screenshot 2024-05-22 at 12 55 55 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/a8d7dec4-67d7-4f1e-a508-a53d6df51bc5">
+<img width="1256" alt="Screenshot 2024-05-22 at 12 56 04 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/aa995029-f052-4f4d-9edd-02f01288d6a5">
+<img width="1253" alt="Screenshot 2024-05-22 at 12 56 19 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/5ff9e500-eae2-452d-a257-2dffc9e95c16">
+<img width="1262" alt="Screenshot 2024-05-22 at 12 56 27 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/72d49d98-12b1-4c5a-bd91-7564d4a42d4f">
+<img width="1452" alt="Screenshot 2024-05-22 at 12 58 09 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/48026c74-c01d-4e74-a03d-75366a4cfb8b">
+<img width="1443" alt="Screenshot 2024-05-22 at 12 59 02 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/811361a9-7bc2-457e-9f1d-19313afc17e3">
+<img width="1447" alt="Screenshot 2024-05-22 at 1 02 49 PM" src="https://github.com/Fabiany-cs/Splunk-Exploring-SPL/assets/107880960/694916e9-9bfa-4791-961d-f80ef2fe7f50">
                 </li>
             </ul>
         </li>
